@@ -1,3 +1,3 @@
 # Client Server Example
 ## About
-Readme will be written soon :)
+Just a Java example of using multithreading to simulate a client and server talking to eachother.
